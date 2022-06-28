@@ -1,0 +1,42 @@
+
+.slide {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/*/ Trending /*/
+
+.trend {
+    justify-content: space-around;
+    padding-bottom: 10px;
+}
+
+.trendingbox {
+    padding: 10px;
+}
+
+.superhero {
+    height: auto;
+    background-color: black;
+    background-size: cover;
+    
+}
+
+
+
+
+
+
+.gambarkotak {
+    height: 131px;
+    width: 262px;
+    overflow: hidden;
+    position: relative;
+}
+
+.kota {
+    padding: 10px;
+}
