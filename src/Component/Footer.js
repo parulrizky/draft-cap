@@ -4,7 +4,7 @@ const SuperHero = () => {
     return  (
         <div>
         <Container>
-            <h1 className="text-white text-center p-4" id="superhero">SUPERHERO</h1>
+            <h1 className="text-white text-center p-4" id="about">SUPERHERO</h1>
             <Row>
             {/*<Col md={3} className="movieWrapper">
                 <Card className=" movieImage">

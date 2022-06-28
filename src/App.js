@@ -1,17 +1,16 @@
 import './App.css';
 import Navigasi from './Component/Navigasi';
-import Intro from './Component/Slide';
+import Slide from './Component/Slide';
 import Tranding from "./Component/Tranding";
 import "./style/landingPage.css"
-import SuperHero from './Component/Superhero';
+import SuperHero from './Component/Footer';
 
 function App() {
   return (
     <div>
-      {/*intro*/}
       <div className="myBG">
         <Navigasi/>
-        <Intro/>
+        <Slide/>
       </div>
       <div className="tranding">
         <Tranding/>
